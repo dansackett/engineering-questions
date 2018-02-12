@@ -19,6 +19,8 @@ where my questions should be taking me.
 - [ ] Are there accesibility implications?
 - [ ] How does it look on mobile? In landscape view?
 - [ ] What happens when the user is logged out?
+- [ ] When handling events, Can the events arrive in a different order? What if we never receive this event? What if this event happens twice in a row?
+- [ ] When writing if / else statements, does `else` catch more than it should?  Have you thought about things that could slip through that shouldn't?
 
 ## Questions about Solutions
 
